@@ -28,7 +28,7 @@ this is [youtube](https://www.youtube.com)
 
 To reduce size of image or increase
 
-<img src="img.npg"width="80"height="60"/>
+<img src="img.png"width="80"height="60"/>
 
 
 this is [twitter](www.twitter.com)

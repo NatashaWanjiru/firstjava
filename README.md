@@ -30,3 +30,9 @@ this is [youtube](https://www.youtube.com)
 To reduce size of image or increase
 
 <img src="img.npg"width="80"height="60"/>
+
+
+![twitterlogo](twitter.png)
+
+
+<img src="twitter.png" width="60"height="40"/>

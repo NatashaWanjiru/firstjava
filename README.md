@@ -24,13 +24,14 @@ this is [youtube](https://www.youtube.com)
 
 
 
-
 ![playstorelogo](playstore.png)
 
 To reduce size of image or increase
 
 <img src="img.npg"width="80"height="60"/>
 
+
+this is [twitter](www.twitter.com)
 
 ![twitterlogo](twitter.png)
 

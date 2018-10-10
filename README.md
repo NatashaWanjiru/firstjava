@@ -18,3 +18,15 @@ this is [youtube](https://www.youtube.com)
 ..*
 1. mangoes
 2. veggies
+
+
+#ASSIGNMENT 4
+
+
+
+
+![playstorelogo](playstore.png)
+
+To reduce size of image or increase
+
+<img src="img.npg"width="80"height="60"/>

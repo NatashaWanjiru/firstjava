@@ -40,7 +40,7 @@ public class week3 {
        }
        else {
            System.out.println(" x != y");
-           
+          // 
        }
      
      

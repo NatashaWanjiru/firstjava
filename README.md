@@ -32,8 +32,9 @@ To reduce size of image or increase
 
 
 this is [twitter](www.twitter.com)
+<a href="http://twitter.com.au/" rel="some text">![Foo](twitter.png)]</a>
 
-![twitterlogo](twitter.png)
+[twitterlogo](twitter.png)
 
 
 <img src="twitter.png" width="60"height="40"/>

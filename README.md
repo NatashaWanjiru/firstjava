@@ -26,13 +26,10 @@ this is [youtube](https://www.youtube.com)
 
 ![playstorelogo](playstore.png)
 
-To reduce size of image or increase
-
-<img src="img.png"width="80"height="60"/>
 
 
 this is [twitter](www.twitter.com)
-<a href="http://twitter.com.au/" rel="some text">![Foo](twitter.png)]</a>
+<a href="http://twitter.com/" rel="twitter">![Foo](twitter.png)]</a>
 
 [twitterlogo](twitter.png)
 
